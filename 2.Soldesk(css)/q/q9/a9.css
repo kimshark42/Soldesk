@@ -1,0 +1,10 @@
+#ig{
+    width: 100px;
+    height: 100px;
+    background: linear-gradient(to left top, aqua,white);
+}
+#ie{
+    width: 100px;
+    height: 100px;
+    background: linear-gradient(47deg, white, red)
+}

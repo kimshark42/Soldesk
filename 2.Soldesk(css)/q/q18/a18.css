@@ -1,0 +1,25 @@
+#box {
+    display: flex;
+    /* flex-direction: row;*/
+    /* flex-direction: column; */
+
+    justify-content: center;
+    /* 가로축 기준 */
+
+    /* align-items: center; */
+    align-items: end;
+    /* align-items: start; */
+    /* 세로축 기준 */
+
+    width: 1000px;
+    height: 100px;
+
+    background-color: pink;
+}
+
+#a{
+    background-color: red;
+    width: 100px;
+    height: 100px;
+    
+}

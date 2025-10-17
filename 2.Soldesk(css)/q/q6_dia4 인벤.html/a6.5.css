@@ -1,0 +1,57 @@
+body{
+    background-color: aquamarine;
+}
+#box{
+    display: flex;
+    width: 1000px;
+}
+#logo{
+    width: 100px;
+    height: 100px;
+}
+#top_banner{
+    width: 600px;
+    height: 100px;
+}
+#left{
+    background-color: orange;
+    width: 800px;
+    height: 800px;
+}
+#right{
+    background-color: yellow;
+    width: 200px;
+    height: 800px;
+}
+#left_1{
+    background-color: green;
+    width: 800px;
+    height: 100px;
+}
+#left_2{
+    background-color: blue;
+    width: 800px;
+    height: 50px;
+    display: flex;
+}
+#left_3{
+    background-color: purple;
+    width: 800px;
+    height: 300px;
+    display: flex;
+}
+#menu{
+    width: 80px;
+    padding: 6px;
+    text-align: center;
+}
+#left_menu{
+    background-color: aqua;
+    width: 100px;
+    height: 500px;
+}
+#content{
+    background-color: chartreuse;
+    width: 700px;
+    height: 500px;
+}

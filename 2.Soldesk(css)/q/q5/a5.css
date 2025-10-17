@@ -1,0 +1,43 @@
+body{
+    background-color: pink;
+}
+
+#top {
+    width: 800px;
+    height: 100px;
+    background-color: red;
+    display: flex;
+}
+#mid {
+    width: 800px;
+    height: 500px;
+    background-color: yellow;
+}
+#bot {
+    width: 800px;
+    height: 200px;
+    background-color: green;
+    display: flex;
+}
+
+#top_left{
+    width: 200px;
+    height: 50px;
+    background-color: blue;
+}
+
+#top_right{
+    width: 600px;
+    height: 50px;
+    background-color: gray;
+}
+#bot_left {
+    width: 200px;
+    height: 200px;
+    background-color: aqua;
+}
+#bot_right {
+    width: 600px;
+    height: 200px;
+    background-color: brown;
+}
