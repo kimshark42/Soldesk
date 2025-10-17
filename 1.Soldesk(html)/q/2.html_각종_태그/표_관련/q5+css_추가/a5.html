@@ -1,0 +1,31 @@
+<!-- 표 크기 변경 + css추가 -->
+ 
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <title>문제 5</title>
+    <link rel="stylesheet" href="a5.css"> <!--html에다 css를 연결-->
+</head>
+<body>
+    <table>
+        <tr>
+          <td colspan=2>a</td>
+          <td>a</td>
+        </tr>
+        <tr>
+          <td>a</td>
+          <td colspan=2>a</td> <!--colspan 우측 셀을 값만큼 합침-->
+        </tr>
+        <tr>
+          <td rowspan=2>a</td> <!-- rowspan 아래 셀을 값만큼 합침침-->
+          <td>a</td>
+          <td>a</td>
+        </tr>
+        <tr>
+          <td>a</td>
+          <td>a</td>
+        </tr>  
+      </table>
+</body>
+</html>

@@ -1,0 +1,16 @@
+/* 표 줄 크기, 색깔, 모양 변경하는법 */
+
+table {
+    /* border: 1px solid black; */
+    border-width : 10px;
+    border-style: solid;
+    border-color: gold;
+}
+
+tr,td {
+    border-width : 4px;
+    border-style: solid;
+    border-color: red;    
+
+    padding: 30px;
+}
